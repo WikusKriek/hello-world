@@ -34,10 +34,7 @@ def f2(point):
     y = -0.04 * point[0] + 0.85 * point[1] + 1.6
 
     return x, y
-
-def f3(point):
-    x =  0.20 * point[0] - 0.26 * point[1]
-    y =  0.23 * point[0] + 0.22 * point[1] + 1.6
+#hello world
 
     return x, y
 
